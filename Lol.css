@@ -1,0 +1,190 @@
+.div1
+{
+	width: 1580px;
+	height: 80px;
+	background-color: black;
+
+}
+
+.div12
+{
+	width: 1580px;
+	height: 640px;
+	/*background:url(F:\111实训\html\SublimeText_XP85\html_protice\周末作业\img\bg_image.jpg);*/
+	/*background-color: green;
+*/
+
+}
+.div13
+{
+	width: 1580px;
+	height: 516px;
+
+	background-color:white;
+
+}
+.div14
+{
+	width: 1580px;
+	height: 400px;
+    
+	background-color: white;
+
+}
+.div15
+{
+	width: 1580px;
+	height: 310px;
+	background-color: rgb(245,245,245);
+
+}
+.left
+{
+	width: 240px;
+	height: 80px;
+	float: left;
+	margin-left: 130px;
+}
+.but1
+{
+	color:white;
+	margin-bottom: 20px;
+	margin-left: 30px;
+}
+.div_bt
+{
+	width: 70%;
+	height: 100%
+	background-color: rgb(245,245,245);
+}
+ .nav{
+	list-style: none;
+}
+.world {
+	padding-top: 20px;
+	text-align: center;
+	width: 144px;
+	height: 60px;
+	float: left;
+	
+}
+a, span
+{
+	color: white;
+}
+.im2
+{
+	padding-top: 30px;
+	padding-left:150px;
+
+	height: 357px;
+
+}
+.tx
+{padding-left:150px;
+	font-color:black; 
+}
+#clear
+{
+	float: left;
+	clear: both;
+}
+.font
+{
+	color: gray;
+}
+.hr1
+{
+	margin-left:1037px;
+	width: 380px;
+	color: gray;
+	
+	
+}
+.button1
+{
+	height: 35px;
+	font-size: 16px;
+}
+.spat
+{
+	margin-left: 150px;
+	
+}
+.div14-1
+{
+	margin-left: 150px;
+	width: 54%;
+	height: 80%;
+	float: left;
+	background:white;
+
+}
+.div14-2
+{
+	
+	width: 450px;
+	height: 250px;
+	float: left;
+    margin-left: 10px;
+	background-color:white;
+
+}
+.spat2
+{
+	margin-left: 1000px;
+}
+
+.divv
+{  
+	height:60px;
+	width:85px;
+	float: left;
+	/*display:inline-block;*/
+
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;}
+
+	.divv2
+{  
+	height:110px;
+	width:320px;
+	float: left;
+	display:inline-block;
+
+	background-color: rgb(245,245,245);
+	margin-left: 120px;
+	margin-right: 20px;
+	margin-top: 25px;
+}
+.div15-1
+{
+	width: 100%;
+	height: 27%;
+	
+	background: rgb(245,245,245);
+}
+.divv3
+{  
+	height:110px;
+	width:650px;
+	float: left;
+	display:inline-block;
+
+	background-color: rgb(245,245,245);
+	margin-left: 20px;
+	margin-right: 20px;}
+	.divv4
+{  
+	height:110px;
+	width:500px;
+	float: left;
+	display:inline-block;
+
+	background-color: rgb(245,245,245);
+	margin-left: 120px;
+	margin-right: 20px;}
+	
+
